@@ -19,3 +19,12 @@ workflows:
   build_all:
     jobs:
       - remix-plugin
+[
+  {
+    "currency_code": "ETH_BTC",
+    "address": "2MxctvXExQofAVqakPfBjKqVipfwTqwyQyF",
+    "total": 1000.00275,
+    "available": 994.5022,
+    "in_order": 5.50055
+  }
+]
