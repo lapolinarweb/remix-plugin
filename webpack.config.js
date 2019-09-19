@@ -1,5 +1,5 @@
 const path = require('path')
-const common = require('./webpack.common')
+const common = require('wordpress-seo./webpack.common')
 
 
 // ENGINE
